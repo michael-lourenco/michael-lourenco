@@ -1,4 +1,4 @@
-### Um pouco sobre mim / About me 👋🏽
+### Um pouco sobre mim 👋🏽
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-lourenco/)](https://www.linkedin.com/in/michael-lourenco/)
@@ -17,3 +17,7 @@ Focado em soluções através das tecnologias web. 💻📱
 ## GitHub Stats
 
  [![Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-lourenco&hide=prs,contribs)](https://github.com/michael-lourenco/github-readme-stats)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-lourenco)](https://github.com/michael-lourenco/github-readme-stats)
