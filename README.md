@@ -14,6 +14,6 @@ longo desta vida sensacional! 🙌🏽
 
 Focado em soluções através das tecnologias web. 💻📱
 
-## Github Stats
+## GitHub Stats
 
  [![Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-lourenco&hide=prs,contribs)](https://github.com/michael-lourenco/github-readme-stats)
