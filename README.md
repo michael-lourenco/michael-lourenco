@@ -13,3 +13,7 @@ fazendo a diferença na vida das pessoas com os conhecimentos que tive a oportun
 longo desta vida sensacional! 🙌🏽
 
 Focado em soluções através das tecnologias web. 💻📱
+
+## Github Stats
+
+ [![Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-lourenco&hide=prs,contribs)](https://github.com/michael-lourenco/github-readme-stats)
